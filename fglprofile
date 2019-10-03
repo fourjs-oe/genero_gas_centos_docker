@@ -1,0 +1,7 @@
+# This id the New FGLPROFILE newflgprofile
+
+#flm.server="my_flm_server"
+#flm.service = "my_port_number"
+#flm.license.number = "TAB#12345678"
+#flm.license.key = "ABCDEFGHIJKL"
+
